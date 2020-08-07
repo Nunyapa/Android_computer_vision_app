@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "987838658369",
+    "firebase_url": "https://cameraxtry.firebaseio.com",
+    "project_id": "cameraxtry",
+    "storage_bucket": "cameraxtry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987838658369:android:e0cfc3d26d72e74ce513c0",
+        "android_client_info": {
+          "package_name": "com.cameraxtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987838658369-o6gkj5vdn12286otts76jc4aa8e22v1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAftVkzdkk4hTE00Vt4VsjgoJol6Buz_v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987838658369-o6gkj5vdn12286otts76jc4aa8e22v1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987838658369:android:1924ac813e396700e513c0",
+        "android_client_info": {
+          "package_name": "com.example.cameraxtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987838658369-o6gkj5vdn12286otts76jc4aa8e22v1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAftVkzdkk4hTE00Vt4VsjgoJol6Buz_v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987838658369-o6gkj5vdn12286otts76jc4aa8e22v1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
